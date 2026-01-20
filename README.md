@@ -1,8 +1,8 @@
 # Projeto-SQL-VivaMais
 
-Este repositório contém o desenvolvimento de um **banco de dados relacional fictício** para o sistema **VivaMais**, criado com fins **educacionais e de portfólio**, utilizand **SQL**.
+Este repositório contém o desenvolvimento de um **banco de dados relacional fictício** para o sistema **VivaMais**, criado com fins **educacionais e de portfólio**, utilizando **SQL**.
 
-O projeto contempla desde o levantamento de reuisitos até a criação do schema e consultas, seguindo boas práticas de modelagem e organização de código.
+O projeto contempla desde o levantamento de requisitos até a criação do esquema do banco de dados e consultas SQL, seguindo boas práticas de **modelagem, normalização e organização de código**.
 
 ---
 
@@ -10,7 +10,7 @@ O projeto contempla desde o levantamento de reuisitos até a criação do schema
 
 Simular a estrutura de um sistema de gestão para a área de vendas, permitindo:
 - organização de dados de forma relacional
-- aplicação de conceitos de modelagem conceitual e lógica
+- aplicação de conceitos de modelagem conceitual, lógica e física
 - criação de consultas SQL para extração de informações relevantes
 
 ---
@@ -29,7 +29,7 @@ Simular a estrutura de um sistema de gestão para a área de vendas, permitindo:
 - Criação de consultas SQL:
   - JOINs (INNER, LEFT e múltiplos JOINs)
   - Funções de agregação (SUM, COUNT, AVG)
-  - Relatórios e análises
+  - Relatórios e análises de dados
 - Organização e documentação técnica do projeto
 
 ---
@@ -39,10 +39,10 @@ Simular a estrutura de um sistema de gestão para a área de vendas, permitindo:
 O repositório está organizado da seguinte forma:
 
 - 📊 **Consultas Avançadas SQL**
-  Contém consultas SQL analíticas e operacionais, incluindo relatórios de vendas, análises agregadas e cruzamento de dados.
+  Consultas analíticas e operacionais, incluindo relatórios de vendas, análises agregadas e cruzamento de dados.
 
 - 🗄️ **Scripts SQL**
-  Scripts responsáveis pela criação do banco de dados, tabelas, constraints, integração referencial bem pensadas.
+  Scripts responsáveis pela criação do banco de dados, tabelas, constraints e integridade referencial.
 
 - 🖼️ **Imagens**
   Diagramas e modelos do projeto, incluindo:
@@ -79,4 +79,4 @@ Foco em Banco de Dados, SQL e Modelagem Dimensional, Business Intelligence e Bac
 
 ---
 
-Este projeto representa minha evolução técnica e prática na área de Banco de Dados, unindo estudo, aplicação real e organização profissional.
+Este projeto representa minha evolução técnica e prática na área de Banco de Dados, unindo estudo, aplicação prática e organização profissional.
