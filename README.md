@@ -1,14 +1,17 @@
 # Projeto-SQL-VivaMais
 
-Sistema completo de **Banco de Dados** desenvolvido para um supermercado fictício (VivaMais), com foco em **modelagem de dados**, **estruturação relacional** e **consultas SQL analíticas e operacionais**.
+Este repositório contém o desenvolvimento de um **banco de dados relacional fictício** para o sistema **VivaMais**, criado com fins **educacionais e de portfólio**, utilizand **SQL**.
 
-Este projeto foi criado com o objetivo de consolidar conhecimentos técnicos em Banco de Dados e servir como **portfólio prático**.
+O projeto contempla desde o levantamento de reuisitos até a criação do schema e consultas, seguindo boas práticas de modelagem e organização de código.
 
 ---
 
 ## Objetivo do Projeto
 
-Desenvolver um banco de dados robusto e bem estruturado, partindo do levantamento conceitual até a implementação física no MySQL, aplicando boas práticas de modelagem e consultas SQL utilizadas em cenários reais.
+Simular a estrutura de um sistema de gestão para a área de vendas, permitindo:
+- organização de dados de forma relacional
+- aplicação de conceitos de modelagem conceitual e lógica
+- criação de consultas SQL para extração de informações relevantes
 
 ---
 
@@ -39,7 +42,7 @@ O repositório está organizado da seguinte forma:
   Contém consultas SQL analíticas e operacionais, incluindo relatórios de vendas, análises agregadas e cruzamento de dados.
 
 - 🗄️ **Scripts SQL**
-  Scripts responsáveis pela criação do banco de dados, tabelas, constraints e povoamento inicial dos dados.
+  Scripts responsáveis pela criação do banco de dados, tabelas, constraints, integração referencial bem pensadas.
 
 - 🖼️ **Imagens**
   Diagramas e modelos do projeto, incluindo:
@@ -56,6 +59,7 @@ O repositório está organizado da seguinte forma:
 - **brModelo** (Modelagem Conceitual – DER)
 - **Modelagem de Dados Relacional**
 - **Normalização de Dados**
+- **Git & GitHub**
 
 ---
 
@@ -71,7 +75,7 @@ O repositório está organizado da seguinte forma:
 
 **Marinize Santana**
 Estudante de Análise e Desenvolvimento de Sistemas
-Foco em Banco de Dados, SQL e Modelagem de Dados
+Foco em Banco de Dados, SQL e Modelagem Dimensional, Business Intelligence e Back-end.
 
 ---
 
